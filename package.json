@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/kdszafranski/code_challenge_pg_sql#readme",
   "dependencies": {
-    "express": "^4.14.0"
-  }
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7",
+    "pg": "^6.1.0"
+  },
+  "devDependencies": {}
 }
